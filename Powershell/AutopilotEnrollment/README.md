@@ -41,4 +41,5 @@ Before running, update these placeholders inside `Enroll-Autopilot.ps1`:
 ---
 
 ## 📑 Example Output
-You can check a demo of the generated transcript in [sample_log.txt](./sample_log.txt).
+You can check a demo of the generated transcript in [sample_log.txt](./Powershell/AutopilotEnrollment/sample_log).
+
