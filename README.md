@@ -7,11 +7,8 @@ This portfolio demonstrates how I adapt, document, and use scripts to support **
 
 ## 📂 Contents
 
-- [PowerShell](./powershell)  
-  - [Autopilot Enrollment](./powershell/AutopilotEnrollment)  
-    - Automates Windows device registration into **Autopilot** using PowerShell + batch launcher.  
-    - Includes logging, webhook integration, and a [sample log](./powershell/AutopilotEnrollment/sample_log.txt).  
-
+- [PowerShell](./Powershell)  
+  - [Autopilot Enrollment](./Powershell/AutopilotEnrollment)  
 ---
 
 ## 🎯 Purpose
